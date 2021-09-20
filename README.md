@@ -59,8 +59,7 @@ I fit the final model on the train data and predicted the wine quality for the t
 | Precision	    |0.831224  |
 | Recall	    |0.788000  |
 | Accuracy	    |0.806250  |
-| ROC	        |0.807043  |
-| Cohens Kappa	|0.612702  |
+
 
 Confusion Matrix and ROC Curve
 
